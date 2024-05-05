@@ -25,7 +25,7 @@ SQLAddressManager simplifies the process of managing addresses by providing a us
 
 To install SQLAddressManager, follow these steps:
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/Giridhar800/SQL-AddressManager.git `
 2. Navigate to the project directory: `cd SQLAddressManager`
 3. Install dependencies: `pip install -r requirements.txt`
 
